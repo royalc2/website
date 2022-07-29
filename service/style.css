@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.title{
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+
+}
+
+.title h1{
+    color:rgb(0, 0, 0);
+    font-size: 50px;
+}
+
+.row{
+    position: absolute;
+    top: 40%;
+    left: 20%;
+    transform: translate(-50%,-50%);
+}
+
+.row h2{
+    color:rgb(0, 0, 0);
+    font-size: 50px;
+}
+
+
+
+
+.editing{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.editing h2{
+    color:rgb(0, 0, 0);
+    font-size: 50px;
+
+}
+
+.notes{
+    position: absolute;
+    top: 40%;
+    left: 80%;
+    transform: translate(-50%,-50%);
+}
+
+.notes h3{
+    color:rgb(0, 0, 0);
+    font-size: 30px;
+}

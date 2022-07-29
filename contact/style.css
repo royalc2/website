@@ -1,0 +1,80 @@
+{
+    margin:0;
+    padding:0;
+    font-family: Century Gothic;
+}
+
+header{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(./30\ \(1\).jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.title{
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+
+}
+
+.title h1{
+    color:rgb(0, 0, 0);
+    font-size: 60px;
+    font-family: 'Edu QLD Beginner', cursive;
+}
+
+.nithin{
+    position: absolute;
+    top: 25%;
+    left: 25%;
+    transform: translate(-50%,-50%);
+
+}
+
+
+.nithin h2{
+    color:rgb(255, 251, 251);
+    font-size: 60px;
+    font-family: 'Cormorant SC', serif;
+}
+
+.rajani{
+    position: absolute;
+    top: 53%;
+    left: 70%;
+    transform: translate(-50%,-50%);
+
+}
+
+.rajani h3{
+    color:#fff;
+    font-size: 50px;
+    font-family: 'Cormorant SC', serif;
+}
+
+.title-2{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(./30\ \(2\).jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+
+
+.h4{
+    position: absolute;
+    top: 120%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    
+}
+
+.h4{
+    color:rgb(255, 255, 255);
+    font-size: 60px;
+    font-family: 'Cinzel', serif;
+}
+ 
+
